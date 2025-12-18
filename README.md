@@ -46,31 +46,42 @@ Coupling: $470\mu F$ speaker output capacitor.
 <!-- PCB -->
 
 <div style="text-align: center;">
-<img src="https://github.com/ThilinaNirmalBandara/Analog-Voice-Over-Device/blob/e1cf411c256b8b1af5544d0714d4765a2282a1cc/pcb.jpeg?raw=true" width="220"/>
-<div><strong>PCB Design</strong></div>
+<img src="https://github.com/banula33/ANALOG-VOICE-OVER-CIRCUIT/blob/main/SCHEMATIC.jpeg" width="220"/>
+<div><strong>SCHEMATIC</strong></div>
 </div>
 
 <!-- Product Image 1 -->
-
 <div style="text-align: center;">
-<img src="https://github.com/ThilinaNirmalBandara/Analog-Voice-Over-Device/blob/318dd59bc88416f0e50e63e3511de1af58523332/enc.jpeg?raw=true" width="220"/>
-<div><strong>Product Front View</strong></div>
+<img src="https://github.com/banula33/ANALOG-VOICE-OVER-CIRCUIT/blob/main/SINGLE%20LAYER%20PCB.jpeg" width="220"/>
+<div><strong>SINGLE LAYER PCB</strong></div>
 </div>
 
+<div style="text-align: center;">
+<img src="https://github.com/banula33/ANALOG-VOICE-OVER-CIRCUIT/blob/main/MULTILAYER%20PCB.jpeg" width="220"/>
+<div><strong>MULTI LAYER PCB</strong></div>
+</div>
+
+<div style="text-align: center;">
+<img src="https://github.com/banula33/ANALOG-VOICE-OVER-CIRCUIT/blob/main/ENCLOSURE.jpeg" width="220"/>
+<div><strong>ENCLOSURE</strong></div>
+</div>
+
+<div style="text-align: center;">
+<img src="https://github.com/banula33/ANALOG-VOICE-OVER-CIRCUIT/blob/main/FINAL%20PRODUCT.jpeg" width="220"/>
+<div><strong>FINAL PRODUCT</strong></div>
+</div>
+
+<div style="text-align: center;">
+<img src="https://github.com/banula33/ANALOG-VOICE-OVER-CIRCUIT/blob/main/PROTOTYPE.jpeg" width="220"/>
+<div><strong>PROTOTYPE</strong></div>
+</div>
 <!-- Product Image 2 + 3 combined -->
 
-<div style="text-align: center;">
-<img src="https://github.com/ThilinaNirmalBandara/Analog-Voice-Over-Device/blob/30659c403599d065a72fd0dfa7f771a78b525c63/enc1.jpeg?raw=true" width="105"/>
-<img src="https://github.com/ThilinaNirmalBandara/Analog-Voice-Over-Device/blob/1a46847465cda73cc1463e89158aae374ca129cb/enc3.jpg?raw=true" width="105"/>
-<div><strong>Side & Rear Views</strong></div>
-</div>
-
-</div>
 
 <!-- Signal Flow Diagram -->
 
 <div style="text-align: center; margin-top: 30px;">
-<img src="https://github.com/ThilinaNirmalBandara/Analog-Voice-Over-Device/blob/679a9b1e865f342f0b4994b55c33be4710e8329a/SignalFlow.jpg?raw=true" width="500"/>
+<img src="https://github.com/banula33/ANALOG-VOICE-OVER-CIRCUIT/blob/main/LOGIC.jpeg" width="500"/>
 <div><strong>Signal Flow Diagram</strong></div>
 </div>
 

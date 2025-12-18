@@ -82,7 +82,6 @@ Audio Channel Management: Handling transitions between multiple sources based on
 
 Practical Circuit Integration: Merging disparate analog modules into a cohesive, functional unit.
 
-Developed by: Banaula Balasooriya ✨
 
 Specializing in Analog Systems and Circuit Design
 
